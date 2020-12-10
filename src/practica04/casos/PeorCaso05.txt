@@ -1,0 +1,114 @@
+%NIVEL CRITICO: PARADA DE TODAS LAS INDUSTRIAS
+%LISTADO EMPRESAS SEGURAS DE INFRACCION
+%CS4 --> R
+%c3: Rojo
+%#
+%BN3 <-- R
+%c3: Rojo
+%#
+%LISTADO EMPRESAS ZONA GRIS
+AN1 --> R
+c3: Rojo
+c4: Naranja
+c2: Naranja
+
+AN2 <-- R
+c3: Rojo
+c4: Naranja
+c2: Naranja
+
+BS1 --> R
+c3: Rojo
+c4: Naranja
+c2: Naranja
+
+BS2 <-- R
+c3: Rojo
+c4: Naranja
+c2: Naranja
+
+#
+AN3 --> R
+c3: Rojo
+c4: Naranja
+c2: Naranja
+
+AN4 <-- R
+c3: Rojo
+c4: Naranja
+c2: Naranja
+
+BS3 --> R
+c3: Rojo
+c4: Naranja
+c2: Naranja
+
+BS4 <-- R
+c3: Rojo
+c4: Naranja
+c2: Naranja
+
+#
+AN5 --> R
+c3: Rojo
+c4: Naranja
+c2: Naranja
+
+AN6 <-- R
+c3: Rojo
+c4: Naranja
+c2: Naranja
+
+BS5 --> R
+c3: Rojo
+c4: Naranja
+c2: Naranja
+
+BS6 <-- R
+c3: Rojo
+c4: Naranja
+c2: Naranja
+
+#
+AN7 --> R
+c3: Rojo
+c4: Naranja
+c2: Naranja
+
+AN8 <-- R
+c3: Rojo
+c4: Naranja
+c2: Naranja
+
+BS7 --> R
+c3: Rojo
+c4: Naranja
+c2: Naranja
+
+BS8 <-- R
+c3: Rojo
+c4: Naranja
+c2: Naranja
+
+#
+AN9 --> R
+c3: Rojo
+c4: Naranja
+c2: Naranja
+
+AN10 <-- R
+c3: Rojo
+c4: Naranja
+c2: Naranja
+
+BS9 --> R
+c3: Rojo
+c4: Naranja
+c2: Naranja
+
+BS10 <-- R
+c3: Rojo
+c4: Naranja
+c2: Naranja
+
+#

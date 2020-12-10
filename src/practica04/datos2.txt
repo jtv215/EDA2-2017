@@ -1,0 +1,36 @@
+%NIVEL CRITICO: PARADA DE TODAS LAS INDUSTRIAS
+%LISTADO EMPRESAS SEGURAS DE INFRACCION
+%DS4 --> R
+%c3: Rojo
+%LISTADO EMPRESAS ZONA GRIS
+AN3 <-- N
+c1: Naranja
+c2: Naranja
+
+BS3 <-- N
+c1: Naranja
+c2: Naranja
+
+#
+CS1 --> N
+c3: Naranja
+c4: Naranja
+
+CS2 <-- N
+c3: Naranja
+c4: Naranja
+
+#
+AN2 <-- R
+c1: Naranja
+
+BS2 <-- R
+c1: Naranja
+
+AN1 --> R
+c1: Rojo
+
+BS1 --> R
+c1: Rojo
+
+#

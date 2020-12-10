@@ -1,0 +1,41 @@
+%LISTADO EMPRESAS SEGURAS DE INFRACCION
+%DS4 --> R
+%c3: Rojo
+%#
+%LISTADO EMPRESAS ZONA GRIS
+ES7 --> R
+c3: Rojo
+c4: Rojo
+c5: Rojo
+c1: Rojo
+c2: Rojo
+
+ES8 <-- R
+c3: Rojo
+c4: Rojo
+
+#
+AN7 --> N
+c1: Naranja
+c2: Naranja
+c3: Naranja
+
+BS8 <-- N
+c3: Naranja
+c4: Naranja
+c5: Naranja
+
+#
+AN6 --> N
+c3: Naranja
+c4: Naranja
+c5: Naranja
+c2: Naranja
+
+BN7 <-- N
+c3: Naranja
+c4: Naranja
+c5: Naranja
+c2: Naranja
+
+#

@@ -1,0 +1,87 @@
+%NIVEL CRITICO: PARADA DE TODAS LAS INDUSTRIAS
+%LISTADO EMPRESAS SEGURAS DE INFRACCION
+%CS4 --> R
+%c3: Rojo
+%#
+%BN3 <-- R
+%c3: Rojo
+%#
+%LISTADO EMPRESAS ZONA GRIS
+CS3 --> R
+c4: Rojo
+c5: Rojo
+c1: Naranja
+c2: Rojo
+
+CS4 <-- R
+c4: Rojo
+c5: Rojo
+c1: Naranja
+c2: Rojo
+
+#
+CN3 --> R
+c4: Rojo
+c5: Rojo
+c1: Naranja
+c2: Rojo
+
+CN4 <-- R
+c4: Rojo
+c5: Rojo
+c1: Naranja
+c2: Rojo
+
+#
+DN5 --> R
+c4: Rojo
+c5: Rojo
+c1: Naranja
+c2: Rojo
+
+DN6 <-- R
+c4: Rojo
+c5: Rojo
+c1: Naranja
+c2: Rojo
+
+#
+DS5 --> R
+c4: Rojo
+c5: Rojo
+c1: Naranja
+c2: Rojo
+
+DS6 <-- R
+c4: Rojo
+c5: Rojo
+c1: Naranja
+c2: Rojo
+
+#
+EN7 --> R
+c4: Rojo
+c5: Rojo
+c1: Naranja
+c2: Rojo
+
+EN8 <-- R
+c4: Rojo
+c5: Rojo
+c1: Naranja
+c2: Rojo
+
+#
+ES7 --> R
+c4: Rojo
+c5: Rojo
+c1: Naranja
+c2: Rojo
+
+ES8 <-- R
+c4: Rojo
+c5: Rojo
+c1: Naranja
+c2: Rojo
+
+#
